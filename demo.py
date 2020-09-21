@@ -1,5 +1,5 @@
-from add.myadd import myadd
-from sub.mysub import mysub
+from cal import myadd
+from cal import mysub
 
 
 print(myadd(1,2))
